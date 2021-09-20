@@ -6,7 +6,7 @@ The output of this challenge is to deliver an interactive dashboard with graphs 
 
 For further information here is a link to the dashboard to see the full functionability [github page](https://enricoroblesdelrio.github.io/BB_bacterial_species/)
 
-And also an image could finded here:
+And also an image is included here:
 
 Dashboard:
 ![exihibit_a](./images/exhibit_a.png)
